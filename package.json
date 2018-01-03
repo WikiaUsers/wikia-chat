@@ -1,0 +1,31 @@
+{
+    "name": "wikia-chat",
+    "version": "0.0.1",
+    "description": "Library for handling Wikia chat clients",
+    "keywords": [
+        "wikia",
+        "chat"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "author": {
+        "name": "KockaAdmiralac",
+        "email": "1405223@gmail.com",
+        "url": "https://github.com/KockaAdmiralac"
+    },
+    "contributors": [],
+    "main": "lib/main.js",
+    "files": [
+        "lib/"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/KockaAdmiralac/wikia-chat.git"
+    },
+    "dependencies": {
+        "request": "^2.34",
+        "request-promise-native": ">=1.0.0"
+    },
+    "engines": {
+        "node": ">=0.12.0"
+    }
+}

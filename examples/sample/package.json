@@ -1,0 +1,16 @@
+{
+    "name": "wikia-chat-sample",
+    "version": "0.0.0",
+    "description": "Sample program for wikia-chat library",
+    "license": "CC-BY-SA-4.0",
+    "main": "main.js",
+    "author": {
+        "name": "KockaAdmiralac",
+        "email": "1405223@gmail.com",
+        "url": "https://github.com/KockaAdmiralac"
+    },
+    "scripts": {
+        "start": "node main.js"
+    },
+    "private": true
+}
